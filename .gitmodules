@@ -8,6 +8,9 @@
 [submodule "gamlss.dist"]
 	path = gamlss.dist
 	url = https://github.com/gamlss-dev/gamlss.dist
+[submodule "gamlss.ggplots"]
+	path = gamlss.ggplots
+	url = https://github.com/gamlss-dev/gamlss.ggplots
 [submodule "gamlss.spatial"]
 	path = gamlss.spatial
 	url = https://github.com/gamlss-dev/gamlss.spatial
