@@ -5,6 +5,9 @@
 [submodule "gamlss"]
 	path = gamlss
 	url = https://github.com/gamlss-dev/gamlss
+[submodule "gamlss.add"]
+	path = gamlss.add
+	url = https://github.com/gamlss-dev/gamlss.add
 [submodule "gamlss.dist"]
 	path = gamlss.dist
 	url = https://github.com/gamlss-dev/gamlss.dist
