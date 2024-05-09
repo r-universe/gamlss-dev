@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/gamlss-dev/gamlss-dev.r-universe.dev
 	branch = HEAD
 [submodule "gamlss"]
 	path = gamlss
@@ -8,12 +8,33 @@
 [submodule "gamlss.add"]
 	path = gamlss.add
 	url = https://github.com/gamlss-dev/gamlss.add
+[submodule "gamlss.cens"]
+	path = gamlss.cens
+	url = https://github.com/gamlss-dev/gamlss.cens
+[submodule "gamlss.data"]
+	path = gamlss.data
+	url = https://github.com/gamlss-dev/gamlss.data
 [submodule "gamlss.dist"]
 	path = gamlss.dist
 	url = https://github.com/gamlss-dev/gamlss.dist
+[submodule "gamlss.experimental"]
+	path = gamlss.experimental
+	url = https://github.com/gamlss-dev/gamlss.experimental
+[submodule "gamlss.foreach"]
+	path = gamlss.foreach
+	url = https://github.com/gamlss-dev/gamlss.foreach
 [submodule "gamlss.ggplots"]
 	path = gamlss.ggplots
 	url = https://github.com/gamlss-dev/gamlss.ggplots
+[submodule "gamlss.mx"]
+	path = gamlss.mx
+	url = https://github.com/gamlss-dev/gamlss.mx
 [submodule "gamlss.spatial"]
 	path = gamlss.spatial
 	url = https://github.com/gamlss-dev/gamlss.spatial
+[submodule "gamlss.tr"]
+	path = gamlss.tr
+	url = https://github.com/gamlss-dev/gamlss.tr
+[submodule "gamlss2"]
+	path = gamlss2
+	url = https://github.com/gamlss-dev/gamlss2
