@@ -29,6 +29,9 @@
 [submodule "gamlss.mx"]
 	path = gamlss.mx
 	url = https://github.com/gamlss-dev/gamlss.mx
+[submodule "gamlss.prepdata"]
+	path = gamlss.prepdata
+	url = https://github.com/gamlss-dev/gamlss.prepdata
 [submodule "gamlss.spatial"]
 	path = gamlss.spatial
 	url = https://github.com/gamlss-dev/gamlss.spatial
